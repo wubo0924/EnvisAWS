@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/EnvisAWS/WebContent/WEB-INF/conf
+END
+commons-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/EnvisAWS/WebContent/WEB-INF/conf/commons-logging.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/EnvisAWS/WebContent/WEB-INF/conf/log4j.properties
+END
+axis2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/EnvisAWS/WebContent/WEB-INF/conf/axis2.xml
+END
+axis2.policy
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/EnvisAWS/WebContent/WEB-INF/conf/axis2.policy
+END

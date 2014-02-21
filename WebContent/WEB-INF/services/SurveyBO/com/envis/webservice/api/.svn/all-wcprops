@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/EnvisAWS/build/classes/com/envis/webservice/api
+END
+IDataConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/EnvisAWS/build/classes/com/envis/webservice/api/IDataConsumer.class
+END
+DataProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/EnvisAWS/build/classes/com/envis/webservice/api/DataProvider.class
+END
+DataConsumer.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/EnvisAWS/build/classes/com/envis/webservice/api/DataConsumer.class
+END
+IDataProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/EnvisAWS/build/classes/com/envis/webservice/api/IDataProvider.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/EnvisAWS/build/classes/com/envis/webservice/api/package-info.class
+END

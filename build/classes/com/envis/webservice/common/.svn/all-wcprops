@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/EnvisAWS/build/classes/com/envis/webservice/common
+END
+TestClass.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/EnvisAWS/build/classes/com/envis/webservice/common/TestClass.class
+END
+DBOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/EnvisAWS/build/classes/com/envis/webservice/common/DBOperation.class
+END
+DataFormat.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/EnvisAWS/build/classes/com/envis/webservice/common/DataFormat.class
+END
+SensorType.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/EnvisAWS/build/classes/com/envis/webservice/common/SensorType.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/EnvisAWS/build/classes/com/envis/webservice/common/package-info.class
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/EnvisAWS/WebContent/WEB-INF/services/DataProvider/com/envis/webservice/database
+END
+IDBManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/EnvisAWS/WebContent/WEB-INF/services/DataProvider/com/envis/webservice/database/IDBManager.class
+END
+DBManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/3/trunk/EnvisAWS/WebContent/WEB-INF/services/DataProvider/com/envis/webservice/database/DBManager.class
+END
+DatabaseBridge.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/3/trunk/EnvisAWS/WebContent/WEB-INF/services/DataProvider/com/envis/webservice/database/DatabaseBridge.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/3/trunk/EnvisAWS/WebContent/WEB-INF/services/DataProvider/com/envis/webservice/database/package-info.class
+END

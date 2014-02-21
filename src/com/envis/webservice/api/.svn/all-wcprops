@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/EnvisAWS/src/com/envis/webservice/api
+END
+DataConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8/trunk/EnvisAWS/src/com/envis/webservice/api/DataConsumer.java
+END
+DataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10/trunk/EnvisAWS/src/com/envis/webservice/api/DataProvider.java
+END
+IDataConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/trunk/EnvisAWS/src/com/envis/webservice/api/IDataConsumer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/EnvisAWS/src/com/envis/webservice/api/package-info.java
+END
+IDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/trunk/EnvisAWS/src/com/envis/webservice/api/IDataProvider.java
+END

@@ -1,0 +1,8 @@
+package com.envis.webservice.common;
+
+public class TestClass {
+	public static void main(String[] args){
+		System.out.println(DataFormat.valueOf("1"));
+	}
+
+}

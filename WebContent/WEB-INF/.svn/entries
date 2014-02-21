@@ -1,0 +1,77 @@
+10
+
+dir
+3
+https://envis-project.googlecode.com/svn/trunk/EnvisAWS/WebContent/WEB-INF
+https://envis-project.googlecode.com/svn
+
+
+
+2013-10-01T08:09:52.960572Z
+3
+wubo.neusoft@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e8e5b551-419c-42eb-bca7-6ebf6c83df60
+
+classes
+dir
+
+conf
+dir
+
+lib
+dir
+
+modules
+dir
+
+services
+dir
+
+web.xml
+file
+7
+
+
+
+2013-11-01T02:31:33.000000Z
+ea850043e1ace17fd9efc48f650d4272
+2013-12-23T04:10:39.417479Z
+7
+wubo.neusoft@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2079
+
